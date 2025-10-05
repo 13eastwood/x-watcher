@@ -1,0 +1,38 @@
+name: X Watch
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # jalan tiap 15 menit (UTC)
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          HANDLE: ${{ secrets.HANDLE }} # set ke "Thekokocrypto"
+        run: |
+          python x_watch.py
+          # salin report terbaru jadi latest.md (biar ada 1 file tetap)
+          ls -1t report_*.md | head -n 1 | xargs -I{} cp {} latest.md || echo "no reports yet"
+
+      - name: Commit results (only if changed)
+        run: |
+          git config user.name "x-bot"
+          git config user.email "x-bot@users.noreply.github.com"
+          git add latest.md state.json || true
+          git diff --cached --quiet && echo "No changes" || git commit -m "Update latest"
+          git push || true
