@@ -25,14 +25,27 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run monitor
+      - name: Run monitor for multiple handles
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          HANDLE: ${{ secrets.HANDLE }} # set ke "Thekokocrypto"
         run: |
-          python x_watch.py
-          # salin report terbaru jadi latest.md (biar ada 1 file tetap)
-          ls -1t report_*.md | head -n 1 | xargs -I{} cp {} latest.md || echo "no reports yet"
+          set -e
+          HANDLES=("Thekokocrypto" "Ashcryptoreal")  # <-- tambah di sini
+          rm -f latest.md
+          for H in "${HANDLES[@]}"; do
+            echo "=== @$H ===" | tee -a latest.md
+            HANDLE="$H" python x_watch.py | sed 's/^/@'"$H"' | /' || true
+            # ambil report terbaru handle ini dan tempel ke latest.md
+            LAST_REPORT=$(ls -1t report_${H}_*.md 2>/dev/null | head -n 1)
+            if [ -n "$LAST_REPORT" ]; then
+              echo "" >> latest.md
+              cat "$LAST_REPORT" >> latest.md
+              echo "" >> latest.md
+            else
+              echo "(no new posts)" >> latest.md
+              echo "" >> latest.md
+            fi
+          done
 
       - name: Commit results (only if changed)
         run: |
