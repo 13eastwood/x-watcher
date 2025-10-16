@@ -2,8 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2025-10-16 22:10:57 WIB | dan dengan begitu perang tariff nya selesai. 10 Oktober  2025 - 16 Oktober 2025 https://t.co/EgMRstMoKz
-  https://x.com/Thekokocrypto/status/1978841098093998194
+- 2025-10-16 22:19:18 WIB | Trump bakal ngomong jam 2 pagi hari ini. is it over? https://t.co/PyHZuTJHVz
+  https://x.com/Thekokocrypto/status/1978843198907679079
 
 === @Ashcryptoreal ===
 (no new posts)
