@@ -2,10 +2,10 @@
 
 # Updates for @Thekokocrypto
 
-- 2025-12-01 11:04:29 WIB | bitcoin di ban terus sama china, sampe bosen denger news nya https://t.co/2N6LP9YRFq
-  https://x.com/Thekokocrypto/status/1995343219094434223
-- 2025-12-01 11:18:36 WIB | Kita masuk bulan baru, QT diakhiri hari ini, FUSAKA upgrade ETH mulai dalam 2 hari, Rate Cuts akan datang dalam 9 hari, …
-  https://x.com/Thekokocrypto/status/1995346772244459687
+- 2025-12-01 11:41:50 WIB | Emas menuju ATH Bitcoin menuju depression https://t.co/gWWA0ujjSd
+  https://x.com/Thekokocrypto/status/1995352617292284368
+- 2025-12-01 11:55:33 WIB | Elon musk bilang dalam 20 tahun kita ga perlu kerja lagi, "Kerja" itu bakal jadi sesuatu yang opsional. Karena bakal dig…
+  https://x.com/Thekokocrypto/status/1995356068604698970
 
 === @Ashcryptoreal ===
 (no new posts)
