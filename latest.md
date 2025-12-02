@@ -2,8 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2025-12-02 12:59:01 WIB | Selamat datang fed chairman baru  Selamat datang rate cuts https://t.co/OKLxOA7Hi8
-  https://x.com/Thekokocrypto/status/1995734430640460225
+- 2025-12-02 13:52:57 WIB | Gw pribadi mau btc turun ke 40k, tapi ini salah satu model bear market yang paling realistis,  Apalagi kalau kita ngomon…
+  https://x.com/Thekokocrypto/status/1995748003563667477
 
 === @Ashcryptoreal ===
 (no new posts)
