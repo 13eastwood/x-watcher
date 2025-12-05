@@ -2,8 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2025-12-05 12:09:47 WIB | Tom lee bilang eth bakal ke $62,000 Tom lee nyimeng apa njir https://t.co/ORP0lfrHAC
-  https://x.com/Thekokocrypto/status/1996809204078919820
+- 2025-12-05 12:27:38 WIB | Kadang gw lihat performa saham, dan gw berpikir.  Gw salah invest ga sih? https://t.co/cE5b0u13Zg
+  https://x.com/Thekokocrypto/status/1996813695306154208
 
 === @Ashcryptoreal ===
 (no new posts)
