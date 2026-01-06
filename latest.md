@@ -2,10 +2,10 @@
 
 # Updates for @Thekokocrypto
 
-- 2026-01-06 21:10:58 WIB | Morgan stanley baru membuat proposal untuk membuat produk bitcoin sendiri.  + 1 institusi besar terlibat di bitcoin. htt…
-  https://x.com/Thekokocrypto/status/2008541809459470508
-- 2026-01-06 21:17:53 WIB | Orang yang memiliki IQ tertinggi post nya kayak targetin harga memecoins di X.  Desember 2025            vs.            …
-  https://x.com/Thekokocrypto/status/2008543547352641587
+- 2026-01-06 21:27:08 WIB | Separah-parah nya losses kalian, inget ada yang masih lihat crypto market ini sebagai gambling. Ada orang yang mengubah …
+  https://x.com/Thekokocrypto/status/2008545877624012865
+- 2026-01-06 21:36:11 WIB | Siapa yang kayak gini? Ngaku hayo https://t.co/OA9T7hsjKM
+  https://x.com/Thekokocrypto/status/2008548154694836451
 
 === @Ashcryptoreal ===
 (no new posts)
