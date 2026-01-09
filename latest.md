@@ -2,8 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2026-01-09 17:42:34 WIB | belom 100k bro https://t.co/jZ1EhxS8f6
-  https://x.com/Thekokocrypto/status/2009576524761153657
+- 2026-01-09 18:03:18 WIB | Arkham mau menghilangkan $MANTA dari website mereka karena udah ga memenuhi standar blockchain nya. mengheningkan cipta …
+  https://x.com/Thekokocrypto/status/2009581744891351046
 
 === @Ashcryptoreal ===
 (no new posts)
