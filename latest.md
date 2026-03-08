@@ -2,10 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2026-03-08 15:35:00 WIB | Inget ga?   Beberapa bulan yang  lalu, X tiba" rame ngomongin harga IHSG. gw lihat banyak post "Buy sekarang/IHSG to the…
-  https://x.com/Thekokocrypto/status/2030562918446862797
-- 2026-03-08 15:54:10 WIB | Vitalik, founder - selling tiap quarter Jeffery, co-founder - selling tiap tahun Foundation nya sendiri - selling hampir…
-  https://x.com/Thekokocrypto/status/2030567740227137822
+- 2026-03-08 16:15:54 WIB | Kebetulan ga?  Disaat epstein files lagi pelan-pelan dikeluarkan ke publik, tiba-tiba ada perang muncul. Apakah ini ulah…
+  https://x.com/Thekokocrypto/status/2030573212778828216
 
 === @Ashcryptoreal ===
 (no new posts)
