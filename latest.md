@@ -2,8 +2,8 @@
 
 # Updates for @Thekokocrypto
 
-- 2026-03-11 18:59:44 WIB | 12juta inflow setelah 230juta outflow  We are so back https://t.co/XZqYtoku1s
-  https://x.com/Thekokocrypto/status/2031701606019023124
+- 2026-03-11 19:23:09 WIB | Gw mau nanya deh, lu pikir bitcoin bakal ke mana 6 bulan dari sekarang? https://t.co/qXga7hvixF
+  https://x.com/Thekokocrypto/status/2031707498206711874
 
 === @Ashcryptoreal ===
 (no new posts)
